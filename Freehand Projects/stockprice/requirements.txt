@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas==0.25.1
+chart-studio
+plotly
